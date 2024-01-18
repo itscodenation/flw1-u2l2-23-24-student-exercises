@@ -16,7 +16,7 @@ let result = document.querySelector(".result");
 
   
 
-  // 4. Update the result div's inner html to show the total needed and max age. Use string interpolation to create the message: "You will need _________ cups of tea to last until the ripe old age of ___________!"
+  // 4. Update the result div's inner html to show the total needed and max age. Use string interpolation to create the message: "You will need _________ snacks to last until the ripe old age of ___________!"
   
 
 }
